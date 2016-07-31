@@ -260,7 +260,7 @@ sns.despine()
 ```
 
 
-![png](output_11_0.png)
+![png](/image/output_11_0.png)
 
 
 
