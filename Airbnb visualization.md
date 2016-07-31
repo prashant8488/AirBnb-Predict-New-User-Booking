@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
+ 
 # Draw inline
 %matplotlib inline
 ```
@@ -260,7 +260,7 @@ sns.despine()
 ```
 
 
-![png](/image/output_11_0.png)
+![png](/images/output_11_0.png)
 
 
 
@@ -286,7 +286,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](/images/output_12_0.png)
 
 
 
@@ -303,7 +303,7 @@ sns.despine()
 ```
 
 
-![png](output_13_0.png)
+![png](/images/output_13_0.png)
 
 
 
@@ -315,7 +315,7 @@ sns.despine()
 ```
 
 
-![png](output_14_0.png)
+![png](/images/output_14_0.png)
 
 
 
@@ -343,7 +343,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![png](/images/output_15_0.png)
 
 
 
@@ -372,7 +372,7 @@ users.date_account_created.value_counts().plot(kind='line', linewidth=1.2, color
 
 
 
-![png](output_17_1.png)
+![png](/images/output_17_1.png)
 
 
 
@@ -388,7 +388,7 @@ users.date_first_active.value_counts().plot(kind='line', linewidth=1.2, color='#
 
 
 
-![png](output_18_1.png)
+![png](/images/output_18_1.png)
 
 
 
@@ -401,7 +401,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](/images/output_19_0.png)
 
 
 
@@ -445,5 +445,5 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![png](/images/output_21_0.png)
 
